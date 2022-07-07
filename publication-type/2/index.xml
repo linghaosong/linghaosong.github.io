@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://linghaosong.github.io/publication-type/2/</link>
+      <atom:link href="https://linghaosong.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://linghaosong.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://linghaosong.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Improving Multilevel Writes on Vertical 3-D Cross-Point Resistive Memory</title>
+      <link>https://linghaosong.github.io/publication/wang-000-lwzs-00-wc-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-000-lwzs-00-wc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyxis: An Open-Source Performance Dataset of Sparse Accelerators</title>
+      <link>https://linghaosong.github.io/publication/abs-2110-04280/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2110-04280/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication</title>
+      <link>https://linghaosong.github.io/publication/abs-2111-12555/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2111-12555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://linghaosong.github.io/publication/abs-2109-11081/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2109-11081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Cost Floating-Point Processing in ReRAM for Scientific Computing</title>
+      <link>https://linghaosong.github.io/publication/abs-2011-03190/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2011-03190/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training</title>
+      <link>https://linghaosong.github.io/publication/abs-2007-13595/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2007-13595/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Vertex Reconstruction of Neutrino-Nucleus Interaction Events with Combined Energy and Time Data</title>
+      <link>https://linghaosong.github.io/publication/abs-1902-00743/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1902-00743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
+      <link>https://linghaosong.github.io/publication/abs-1901-02067/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1901-02067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReBNN: in-situ acceleration of binarized neural networks in ReRAM using complementary resistive cell</title>
+      <link>https://linghaosong.github.io/publication/song-wqlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-wqlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPatch: Attacking Object Detectors with Adversarial Patches</title>
+      <link>https://linghaosong.github.io/publication/abs-1806-02299/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1806-02299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/abs-1708-06248/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1708-06248/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

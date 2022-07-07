@@ -33,82 +33,139 @@
     </item>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://linghaosong.github.io/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
+      <title>PYXIS: An Open-Source Performance Dataset Of Sparse Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-cc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-cc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://linghaosong.github.io/publication/song-csclc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-csclc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Multilevel Writes on Vertical 3-D Cross-Point Resistive Memory</title>
+      <link>https://linghaosong.github.io/publication/wang-000-lwzs-00-wc-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-000-lwzs-00-wc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marvel: A Vertical Resistive Accelerator for Low-Power Deep Learning Inference in Monolithic 3D</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyxis: An Open-Source Performance Dataset of Sparse Accelerators</title>
+      <link>https://linghaosong.github.io/publication/abs-2110-04280/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2110-04280/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAISE: A Resistive Accelerator for Subject-Independent EEG Signal Classification</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication</title>
+      <link>https://linghaosong.github.io/publication/abs-2111-12555/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2111-12555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://linghaosong.github.io/publication/abs-2109-11081/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2109-11081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerator Architectures for Deep Learning and Graph Processing</title>
+      <link>https://linghaosong.github.io/publication/song-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-czqlc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-czqlc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GaaS-X: Graph Analytics Accelerator Supporting Sparse Data Representation using Crossbar Architectures</title>
+      <link>https://linghaosong.github.io/publication/challapalle-rscs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/challapalle-rscs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Cost Floating-Point Processing in ReRAM for Scientific Computing</title>
+      <link>https://linghaosong.github.io/publication/abs-2011-03190/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2011-03190/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallelism in Deep Learning Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-ccl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-ccl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PARC: A Processing-in-CAM Architecture for Genomic Long Read Pairwise Alignment using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReBoc: Accelerating Block-Circulant Neural Networks in ReRAM</title>
+      <link>https://linghaosong.github.io/publication/wang-csslc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-csslc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training</title>
+      <link>https://linghaosong.github.io/publication/abs-2007-13595/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-2007-13595/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training</title>
+      <link>https://linghaosong.github.io/publication/dai-yyclscz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/dai-yyclscz-20/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -237,6 +294,166 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Deep Learning for Vertex Reconstruction of Neutrino-nucleus Interaction Events with Combined Energy and Time Data</title>
+      <link>https://linghaosong.github.io/publication/song-cyspp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-cyspp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Vertex Reconstruction of Neutrino-Nucleus Interaction Events with Combined Energy and Time Data</title>
+      <link>https://linghaosong.github.io/publication/abs-1902-00743/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1902-00743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPATCH: An Adversarial Patch Attack on Object Detectors</title>
+      <link>https://linghaosong.github.io/publication/liu-ylscl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/liu-ylscl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Process-in-Memory Architecture Design for Unsupervised GAN-based Deep Learning using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-sl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-sl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Obtain and Run Light and Efficient Deep Learning Networks</title>
+      <link>https://linghaosong.github.io/publication/chen-wszlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-wszlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
+      <link>https://linghaosong.github.io/publication/abs-1901-02067/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1901-02067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
+      <link>https://linghaosong.github.io/publication/song-mzqlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-mzqlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReBNN: in-situ acceleration of binarized neural networks in ReRAM using complementary resistive cell</title>
+      <link>https://linghaosong.github.io/publication/song-wqlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-wqlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming extreme heterogeneity via machine learning based design of autonomous manycore systems</title>
+      <link>https://linghaosong.github.io/publication/bogdan-cddjlnsx-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/bogdan-cddjlnsx-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomlayer: a universal reRAM-based CNN accelerator with atomic layer computation</title>
+      <link>https://linghaosong.github.io/publication/qiao-cysl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/qiao-cysl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPatch: Attacking Object Detectors with Adversarial Patches</title>
+      <link>https://linghaosong.github.io/publication/abs-1806-02299/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1806-02299/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/song-zqlc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-zqlc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReCom: An efficient resistive accelerator for compressed deep neural networks</title>
+      <link>https://linghaosong.github.io/publication/ji-sjlc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/ji-sjlc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks</title>
+      <link>https://linghaosong.github.io/publication/chen-sc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-sc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReRAM-based accelerator for deep learning</title>
+      <link>https://linghaosong.github.io/publication/li-scqcl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/li-scqcl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification accuracy improvement for neuromorphic computing systems with one-level precision synapses</title>
+      <link>https://linghaosong.github.io/publication/wang-wsl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-wsl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/abs-1708-06248/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/abs-1708-06248/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeDNN: A distributed mobile system with enhanced partition and deployment for large-scale DNNs</title>
+      <link>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning</title>
+      <link>https://linghaosong.github.io/publication/song-q-0-c-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-q-0-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://linghaosong.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -247,6 +464,30 @@ $$&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>NVSim-VX(^mboxs): an improved NVSim for variation aware STT-RAM simulation</title>
+      <link>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spiking neuromorphic design with resistive crossbar</title>
+      <link>https://linghaosong.github.io/publication/liu-yysllclwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/liu-yysllclwj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking-based matrix computation by leveraging memristor crossbar array</title>
+      <link>https://linghaosong.github.io/publication/li-lyyslczwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/li-lyyslczwj-15/</guid>
+      <description></description>
     </item>
     
     <item>

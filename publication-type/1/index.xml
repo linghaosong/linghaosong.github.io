@@ -5,12 +5,236 @@
     <link>https://linghaosong.github.io/publication-type/1/</link>
       <atom:link href="https://linghaosong.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://linghaosong.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://linghaosong.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>PYXIS: An Open-Source Performance Dataset Of Sparse Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-cc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-cc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://linghaosong.github.io/publication/song-csclc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-csclc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marvel: A Vertical Resistive Accelerator for Low-Power Deep Learning Inference in Monolithic 3D</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-21-a/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAISE: A Resistive Accelerator for Subject-Independent EEG Signal Classification</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-czqlc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-czqlc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GaaS-X: Graph Analytics Accelerator Supporting Sparse Data Representation using Crossbar Architectures</title>
+      <link>https://linghaosong.github.io/publication/challapalle-rscs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/challapalle-rscs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallelism in Deep Learning Accelerators</title>
+      <link>https://linghaosong.github.io/publication/song-ccl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-ccl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PARC: A Processing-in-CAM Architecture for Genomic Long Read Pairwise Alignment using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReBoc: Accelerating Block-Circulant Neural Networks in ReRAM</title>
+      <link>https://linghaosong.github.io/publication/wang-csslc-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-csslc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training</title>
+      <link>https://linghaosong.github.io/publication/dai-yyclscz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/dai-yyclscz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Vertex Reconstruction of Neutrino-nucleus Interaction Events with Combined Energy and Time Data</title>
+      <link>https://linghaosong.github.io/publication/song-cyspp-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-cyspp-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPATCH: An Adversarial Patch Attack on Object Detectors</title>
+      <link>https://linghaosong.github.io/publication/liu-ylscl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/liu-ylscl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Process-in-Memory Architecture Design for Unsupervised GAN-based Deep Learning using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-sl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-sl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Obtain and Run Light and Efficient Deep Learning Networks</title>
+      <link>https://linghaosong.github.io/publication/chen-wszlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-wszlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
+      <link>https://linghaosong.github.io/publication/song-mzqlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-mzqlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming extreme heterogeneity via machine learning based design of autonomous manycore systems</title>
+      <link>https://linghaosong.github.io/publication/bogdan-cddjlnsx-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/bogdan-cddjlnsx-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM</title>
+      <link>https://linghaosong.github.io/publication/chen-slc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-slc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atomlayer: a universal reRAM-based CNN accelerator with atomic layer computation</title>
+      <link>https://linghaosong.github.io/publication/qiao-cysl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/qiao-cysl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/song-zqlc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-zqlc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReCom: An efficient resistive accelerator for compressed deep neural networks</title>
+      <link>https://linghaosong.github.io/publication/ji-sjlc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/ji-sjlc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReGAN: A pipelined ReRAM-based accelerator for generative adversarial networks</title>
+      <link>https://linghaosong.github.io/publication/chen-sc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/chen-sc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReRAM-based accelerator for deep learning</title>
+      <link>https://linghaosong.github.io/publication/li-scqcl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/li-scqcl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification accuracy improvement for neuromorphic computing systems with one-level precision synapses</title>
+      <link>https://linghaosong.github.io/publication/wang-wsl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/wang-wsl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeDNN: A distributed mobile system with enhanced partition and deployment for large-scale DNNs</title>
+      <link>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning</title>
+      <link>https://linghaosong.github.io/publication/song-q-0-c-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-q-0-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NVSim-VX(^mboxs): an improved NVSim for variation aware STT-RAM simulation</title>
+      <link>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spiking neuromorphic design with resistive crossbar</title>
+      <link>https://linghaosong.github.io/publication/liu-yysllclwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/liu-yysllclwj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking-based matrix computation by leveraging memristor crossbar array</title>
+      <link>https://linghaosong.github.io/publication/li-lyyslczwj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/li-lyyslczwj-15/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
