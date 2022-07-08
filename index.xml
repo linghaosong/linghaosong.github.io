@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
+      <link>https://linghaosong.github.io/publication/song-csclc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-csclc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://linghaosong.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -30,14 +38,6 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication</title>
-      <link>https://linghaosong.github.io/publication/song-csclc-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/song-csclc-22/</guid>
-      <description></description>
     </item>
     
     <item>
