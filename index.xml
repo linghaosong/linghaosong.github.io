@@ -69,62 +69,6 @@
     </item>
     
     <item>
-      <title>SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training</title>
-      <link>https://linghaosong.github.io/publication/dai-yyclscz-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/dai-yyclscz-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM</title>
-      <link>https://linghaosong.github.io/publication/chen-slc-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/chen-slc-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atomlayer: a universal reRAM-based CNN accelerator with atomic layer computation</title>
-      <link>https://linghaosong.github.io/publication/qiao-cysl-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/qiao-cysl-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NVSim-VX(^mboxs): an improved NVSim for variation aware STT-RAM simulation</title>
-      <link>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/eken-sbxw-0-c-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A spiking neuromorphic design with resistive crossbar</title>
-      <link>https://linghaosong.github.io/publication/liu-yysllclwj-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/liu-yysllclwj-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to Obtain and Run Light and Efficient Deep Learning Networks</title>
-      <link>https://linghaosong.github.io/publication/chen-wszlc-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/chen-wszlc-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MeDNN: A distributed mobile system with enhanced partition and deployment for large-scale DNNs</title>
-      <link>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
       <link>https://linghaosong.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -267,14 +211,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>DPATCH: An Adversarial Patch Attack on Object Detectors</title>
-      <link>https://linghaosong.github.io/publication/liu-ylscl-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/liu-ylscl-19/</guid>
-      <description></description>
     </item>
     
     <item>
