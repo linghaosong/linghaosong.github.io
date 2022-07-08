@@ -29,18 +29,18 @@
     </item>
     
     <item>
-      <title>Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication</title>
-      <link>https://linghaosong.github.io/publication/song-cgc-22/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/song-cgc-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators</title>
       <link>https://linghaosong.github.io/publication/song-czqlc-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://linghaosong.github.io/publication/song-czqlc-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication</title>
+      <link>https://linghaosong.github.io/publication/song-cgc-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-cgc-22/</guid>
       <description></description>
     </item>
     
