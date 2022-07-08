@@ -37,6 +37,30 @@
     </item>
     
     <item>
+      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
+      <link>https://linghaosong.github.io/publication/song-mzqlc-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-mzqlc-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
+      <link>https://linghaosong.github.io/publication/song-zqlc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-zqlc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning</title>
+      <link>https://linghaosong.github.io/publication/song-q-0-c-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://linghaosong.github.io/publication/song-q-0-c-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://linghaosong.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -214,14 +238,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array</title>
-      <link>https://linghaosong.github.io/publication/song-mzqlc-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/song-mzqlc-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM</title>
       <link>https://linghaosong.github.io/publication/chen-slc-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -238,26 +254,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>GraphR: Accelerating Graph Processing Using ReRAM</title>
-      <link>https://linghaosong.github.io/publication/song-zqlc-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/song-zqlc-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MeDNN: A distributed mobile system with enhanced partition and deployment for large-scale DNNs</title>
       <link>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://linghaosong.github.io/publication/mao-ywwsnclc-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning</title>
-      <link>https://linghaosong.github.io/publication/song-q-0-c-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://linghaosong.github.io/publication/song-q-0-c-17/</guid>
       <description></description>
     </item>
     
