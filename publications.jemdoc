@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{publications.html}
+== Publications
+
+== Selected Publications
+
+. *Linghao Song*, Licheng Guo, Suhail Basalama, Yuze Chi, Robert F. Lucas, and Jason Cong,\n
+[https://arxiv.org/abs/2209.14350 Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver]. \n
+*FPGA'23* : The 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Monterey, CA, USA, February 12 - 14, 2023.
+. *Linghao Song*, Yuze Chi, Atefeh Sohrabizadeh, Young-kyu Choi, Jason Lau, and Jason Cong,\n
+[https://dl.acm.org/doi/10.1145/3490422.3502357 Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication]. \n
+*FPGA'22* : The 2022 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Virtual Event, USA, February 27 - March 1, 2022.
+. *Linghao Song*, Yuze Chi, Licheng Guo, and Jason Cong,\n
+[https://dl.acm.org/doi/abs/10.1145/3489517.3530420 Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication]. \n
+*DAC'22* : Proceedings of the 59th Annual Design Automation Conference, San Francisco, CA, USA, July 11 - 14, 2022.
+. *Linghao Song*, Fan Chen, Youwei Zhuo, Xuehai Qian, Hai Li, and Yiran Chen, \n
+[https://ieeexplore.ieee.org/document/9065574 AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators]. \n
+*HPCA'20* : IEEE International Symposium on High Performance Computer Architecture, San Diego, CA, USA, February 22 - 26, 2020.
+. *Linghao Song*, Jiachen Mao, Youwei Zhuo, Xuehai Qian, Hai Li, and Yiran Chen, \n
+[https://ieeexplore.ieee.org/document/8675232 HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array]. \n
+*HPCA'19* : 25th IEEE International Symposium on High Performance Computer Architecture, Washington, DC, USA, February 16 - 20, 2019.
+. *Linghao Song*, Youwei Zhuo, Xuehai Qian, Hai Helen Li, and Yiran Chen, \n
+[https://ieeexplore.ieee.org/document/8327035 GraphR: Accelerating Graph Processing Using ReRAM]. *\[200+ Google Scholar citations\]*\n
+*HPCA'18* : IEEE International Symposium on High Performance Computer Architecture, Vienna, Austria, February 24-28, 2018. 
+. *Linghao Song*, Xuehai Qian, Hai Li, and Yiran Chen, \n
+[https://ieeexplore.ieee.org/document/7920854 PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]. *\[600+ Google Scholar citations\]*\n
+*HPCA'17* : 2017 IEEE International Symposium on High Performance Computer Architecture, Austin, TX, USA, February 4 - 8, 2017.
