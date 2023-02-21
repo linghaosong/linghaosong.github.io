@@ -4,7 +4,7 @@
 == Selected Publications
 
 . *Linghao Song*, Licheng Guo, Suhail Basalama, Yuze Chi, Robert F. Lucas, and Jason Cong,\n
-[https://arxiv.org/abs/2209.14350 Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver]. \n
+[https://dl.acm.org/doi/abs/10.1145/3543622.3573182 Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver]. \n
 *FPGA'23* : The 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Monterey, CA, USA, February 12 - 14, 2023.
 . *Linghao Song*, Yuze Chi, Atefeh Sohrabizadeh, Young-kyu Choi, Jason Lau, and Jason Cong,\n
 [https://dl.acm.org/doi/10.1145/3490422.3502357 Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication]. \n
@@ -12,6 +12,9 @@
 . *Linghao Song*, Yuze Chi, Licheng Guo, and Jason Cong,\n
 [https://dl.acm.org/doi/abs/10.1145/3489517.3530420 Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication]. \n
 *DAC'22* : Proceedings of the 59th Annual Design Automation Conference, San Francisco, CA, USA, July 11 - 14, 2022.
+. *Linghao Song*, Yuze Chi, and Jason Cong,\n
+[https://ieeexplore.ieee.org/abstract/document/9746473 Pyxis: An Open-Source Performance Dataset Of Sparse Accelerators]. \n
+*ICASSP'22* : 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, Singapore, Singapore, May 23 - 27, 2022.
 . *Linghao Song*, Fan Chen, Youwei Zhuo, Xuehai Qian, Hai Li, and Yiran Chen, \n
 [https://ieeexplore.ieee.org/document/9065574 AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators]. \n
 *HPCA'20* : IEEE International Symposium on High Performance Computer Architecture, San Diego, CA, USA, February 22 - 26, 2020.
@@ -20,6 +23,9 @@
 *HPCA'19* : 25th IEEE International Symposium on High Performance Computer Architecture, Washington, DC, USA, February 16 - 20, 2019.
 . *Linghao Song*, Youwei Zhuo, Xuehai Qian, Hai Helen Li, and Yiran Chen, \n
 [https://ieeexplore.ieee.org/document/8327035 GraphR: Accelerating Graph Processing Using ReRAM]. *\[200+ Google Scholar citations\]*\n
+. *Linghao Song*, Fan Chen, Steven R. Young, Catherine D. Schuman, Gabriel Perdue, and Thomas E. Potok,\n
+[https://ieeexplore.ieee.org/abstract/document/8683736 Deep Learning for Vertex Reconstruction of Neutrino-nucleus Interaction Events with Combined Energy and Time Data]. \n
+*ICASSP'19* : 2019 IEEE International Conference on Acoustics, Speech and Signal Processing, Brighton, UK, May 12 - 17, 2019.
 *HPCA'18* : IEEE International Symposium on High Performance Computer Architecture, Vienna, Austria, February 24-28, 2018. 
 . *Linghao Song*, Xuehai Qian, Hai Li, and Yiran Chen, \n
 [https://ieeexplore.ieee.org/document/7920854 PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]. *\[600+ Google Scholar citations\]*\n
