@@ -13,7 +13,7 @@
 [https://dl.acm.org/doi/abs/10.1145/3489517.3530420 Serpens: A High Bandwidth Memory Based Accelerator for General-Purpose Sparse Matrix-Vector Multiplication]. \n
 *DAC'22* : Proceedings of the 59th Annual Design Automation Conference, San Francisco, CA, USA, July 11 - 14, 2022.
 . *Linghao Song*, Yuze Chi, and Jason Cong,\n
-[https://ieeexplore.ieee.org/abstract/document/9746473 Pyxis: An Open-Source Performance Dataset Of Sparse Accelerators]. \n
+[https://ieeexplore.ieee.org/abstract/document/9746473 Pyxis: An Open-Source Performance Dataset of Sparse Accelerators]. \n
 *ICASSP'22* : 2022 IEEE International Conference on Acoustics, Speech and Signal Processing, Singapore, Singapore, May 23 - 27, 2022.
 . *Linghao Song*, Fan Chen, Youwei Zhuo, Xuehai Qian, Hai Li, and Yiran Chen, \n
 [https://ieeexplore.ieee.org/document/9065574 AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators]. \n
