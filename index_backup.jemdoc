@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}
+==Linghao Song
+
+~~~
+{}{img_left}{./photo/bio.jpg}{photo}{200px}{}{}
+Postdoc Researcher\n
+[https://www.cs.ucla.edu Computer Science Department]\n
+[https://www.ucla.edu University of California, Los Angeles]\n
+\n
+Address: 404 Westwood Plaza, 468A ENG VI, Los Angeles, CA 90034\n
+E-mail: linghaosong\[AT\]cs.ucla.edu\n
+\n
+[https://scholar.google.com/citations?user=zMoIgA8AAAAJ&hl=en Google Scholar]\n
+[https://www.linkedin.com/in/linghaosong Linkedin]\n
+#[https://github.com/linghaosong Github]\n
+~~~
+
+== Biography
+Linghao Song is a postdoctoral researcher in UCLA Computer Science Department under the supervision of Professor [https://vast.cs.ucla.edu/people/faculty/jason-cong Jason Cong]. He received Ph.D. in Computer Engineering from Duke University under the supervision of Professor [https://ece.duke.edu/faculty/yiran-chen Yiran Chen] and Professor [https://ece.duke.edu/faculty/hai-helen-li Hai (Helen) Li] in 2020, M.S. in Electrical Engineering from University of Pittsburgh in 2017, and B.S.E. in Information Engineering from Shanghai Jiao Tong University in 2014. His research interests include machine learning acceleration, computer architecture, FPGA accelerators, and deep learning application. He received 2020 EDAA Outstanding Dissertation Award and 2021 Duke ECE Outstanding Dissertation Award.\n
+
+== News
+- Callipepla is accepted to [https://www.isfpga.org/program/ FPGA'23].
+- Serving as a TPC member for DAC'23.
