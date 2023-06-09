@@ -22,7 +22,8 @@ Professor [https://ece.duke.edu/faculty/yiran-chen Yiran Chen] and
 Professor [https://ece.duke.edu/faculty/hai-helen-li Hai (Helen) Li] in 2020, 
 M.S. in Electrical Engineering from University of Pittsburgh in 2017, and 
 B.S.E. in Information Engineering from Shanghai Jiao Tong University in 2014. 
-His research interests include machine learning acceleration, computer architecture, 
+His research interests include machine learning acceleration, computer architecture,
+FPGA acceleration systems, 
 and deep learning application. He received 2020 EDAA Outstanding Dissertation Award and 
 2021 Duke ECE Outstanding Dissertation Award.\n
 
@@ -88,10 +89,10 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 [https://ieeexplore.ieee.org/abstract/document/8683736 Deep Learning for Vertex Reconstruction of Neutrino-nucleus Interaction Events with Combined Energy and Time Data]. \n
 *ICASSP'19* : 2019 IEEE International Conference on Acoustics, Speech and Signal Processing, Brighton, UK, May 12 - 17, 2019.
 . *Linghao Song*, Youwei Zhuo, Xuehai Qian, Hai Helen Li, and Yiran Chen, \n
-[https://ieeexplore.ieee.org/document/8327035 GraphR: Accelerating Graph Processing Using ReRAM]. *\[250+ Google Scholar citations\]*\n
+[https://ieeexplore.ieee.org/document/8327035 GraphR: Accelerating Graph Processing Using ReRAM]. *\[250+ Citations\]*\n
 *HPCA'18* : IEEE International Symposium on High Performance Computer Architecture, Vienna, Austria, February 24-28, 2018. 
 . *Linghao Song*, Xuehai Qian, Hai Li, and Yiran Chen, \n
-[https://ieeexplore.ieee.org/document/7920854 PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]. *\[700+ Google Scholar citations\]*\n
+[https://ieeexplore.ieee.org/document/7920854 PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning]. *\[700+ Citations\]*\n
 *HPCA'17* : 2017 IEEE International Symposium on High Performance Computer Architecture, Austin, TX, USA, February 4 - 8, 2017.
 
 == Professional Services
@@ -99,7 +100,7 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 === Organization Committee
 
 - ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED): 2023 (Publicity Co-Chair), 2022 (Publicity Chair).
-- International Green and Sustainable Computing Conference (IGSC): 2022 (Web Chair).
+- International Green and Sustainable Computing Conference (IGSC): 2023 (Web Chair), 2022 (Web Chair).
 
 === Program Committee
 
