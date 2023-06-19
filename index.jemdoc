@@ -28,6 +28,7 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 2021 Duke ECE Outstanding Dissertation Award.\n
 
 == News
+- ReFloat is accpted to [https://sc23.supercomputing.org/program/ SC'23].
 - Callipepla is accepted to [https://www.isfpga.org/program/ FPGA'23].
 - Serving as a TPC member for DAC'23.
 
@@ -57,7 +58,7 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 
 === University of California, Los Angeles
 - Postdoc in Computer Science Department, Sep. 2020 - Current.
-#- Advised by Prof. [https://vast.cs.ucla.edu/people/faculty/jason-cong Jason Cong].
+- Advised by Prof. [https://vast.cs.ucla.edu/people/faculty/jason-cong Jason Cong].
 
 === Pacific Northwest National Laboratory
 - Research Intern, Jun. 2019 - Aug. 2019.
@@ -67,6 +68,9 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 
 == Selected Publications
 
+. *Linghao Song*, et. al,\n
+[ReFloat: Low-Cost Floating-Point Processing in ReRAM for Accelerating Iterative Linear Solvers]. \n
+*SC'23* : International Conference for High Performance Computing, Networking, Storage and Analysis, Denver, CO, To appear, 2023.
 . *Linghao Song*, Licheng Guo, Suhail Basalama, Yuze Chi, Robert F. Lucas, and Jason Cong,\n
 [https://dl.acm.org/doi/abs/10.1145/3543622.3573182 Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver]. \n
 *FPGA'23* : The 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Monterey, CA, USA, February 12 - 14, 2023.
