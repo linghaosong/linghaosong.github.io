@@ -72,7 +72,7 @@ and deep learning application. He received 2020 EDAA Outstanding Dissertation Aw
 == Selected Publications
 
 . *Linghao Song*, Fan Chen, Hai Li, and Yiran Chen,\n
-[ ReFloat: Low-Cost Floating-Point Processing in ReRAM for Accelerating Iterative Linear Solvers]. \n
+[https://dl.acm.org/doi/abs/10.1145/3581784.3607077 ReFloat: Low-Cost Floating-Point Processing in ReRAM for Accelerating Iterative Linear Solvers]. \n
 *SC'23* : International Conference for High Performance Computing, Networking, Storage and Analysis, Denver, CO, USA, November 12 - 17, 2023.
 . *Linghao Song*, Licheng Guo, Suhail Basalama, Yuze Chi, Robert F. Lucas, and Jason Cong,\n
 [https://dl.acm.org/doi/abs/10.1145/3543622.3573182 Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver]. \n
