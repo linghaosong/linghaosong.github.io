@@ -367,11 +367,7 @@ table.imgtable, table.imgtable td {
 }
 
 #visitor-map-container {
-  width: 100%;
-  display: flex;
-  justify-content: flex-start;
-}
-
-#visitor-map-container * {
-  margin-left: 0 !important;
+  width: 250px;
+  margin-left: 0;
+  margin-right: auto;
 }
