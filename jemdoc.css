@@ -366,3 +366,8 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
+#visitor-map-container {
+  width: 250px;
+  margin-left: 0;
+  margin-right: auto;
+}
