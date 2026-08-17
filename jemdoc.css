@@ -365,3 +365,13 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+#visitor-map-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+
+#visitor-map-container * {
+  margin-left: 0 !important;
+}
